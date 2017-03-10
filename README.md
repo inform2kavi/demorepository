@@ -1,1 +1,2 @@
-This file has the information about the prject
+This is dummy repository.
+Does not contain any project code.
